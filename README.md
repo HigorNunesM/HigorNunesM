@@ -1,5 +1,19 @@
 Under construction!!!
 
+Added projects so far:
+
+RFM segmentation✅
+Cross selling✅
+
+Projects to be add:
+
+Email bot
+Costumer Churn prediction
+Next purchase period
+Sales Forecast
+Quality improvement - Process parameters optimization
+Fault prediction of an electric motor
+
 
 
 <!---
