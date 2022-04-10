@@ -4,10 +4,10 @@ Added projects so far:
 
 RFM segmentation✅
 Cross selling✅
+RPA - Emailbot✅
 
 Projects to be add:
 
-Email bot;
 Costumer Churn prediction;
 Next purchase period;
 Sales Forecast;
