@@ -17,10 +17,10 @@ My goal is to help companies create value and bring results through data science
 
  </div>
  <div style="display: inline_block"><br>
- <img align="right" alt="Lucas-pic" height="250" style="border-radius:1000px; src="<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> style="width: 500px; height: 500px; left: 0px; top: 0px;">
+ <img align="right" alt="Lucas-pic" height="250" style="border-radius:1000px; src="<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" style="width: 500px; height: 500px; left: 0px; top: 0px;">
  </div>
 
- 
+
 <!-- Programing languages -->
 #### • Programming languages:
 <div>
