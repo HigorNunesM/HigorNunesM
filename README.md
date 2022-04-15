@@ -17,7 +17,7 @@ My goal is to help companies create value and bring results through data science
 <!-- Programing languages -->
 
 #### • Programming languages:
-	</div>
+ </div>
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'style="width: 20; height: 25px">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"style="width: 20; height: 25px">
 <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"style="width: 20; height: 25px">
