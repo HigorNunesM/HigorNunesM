@@ -10,6 +10,11 @@ Self-teaching Data Scientist and Automation Engineering bachelor with 3+ years o
 My goal is to help companies create value and bring results through data science and new technologies.
 <Br>
 <Br>
+  
+<!-- Skills -->
+
+<h1>Main Skills</h1>
+
 
 <!-- Github Overview -->
 
