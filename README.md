@@ -9,10 +9,12 @@
 Self-teaching Data Scientist and Automation Engineering bachelor with 3+ years of experience in major multinationals companies.
 My goal is to help companies create value and bring results through data science and new technologies.
 <Br>
+<Br>
 
 <!-- Github Overview -->
 
 <h1>GitHub Overview</h1>
+<Br>
 <div align="center">
   <a href="https://github.com/higornunesm">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=higornunesm&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -20,7 +22,6 @@ My goal is to help companies create value and bring results through data science
 <Br>
 <Br>
 <hr>
-<Br>
 <Br>
     
 <!-- Contact -->
