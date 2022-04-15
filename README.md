@@ -72,8 +72,7 @@ My goal is to help companies create value and bring results through data science
     <a href = "https://wa.me/5521994208379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;&nbsp;&nbsp;
     <a href="https://higornunesm.github.io/portfolio/" target="blank"><img src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
-<Br>
-<Br>
+
 <hr>
 <Br>
 
