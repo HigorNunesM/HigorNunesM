@@ -81,7 +81,7 @@ My goal is to help companies create value and bring results through data science
 <h1>Projects</h1>
 
 <p align="center">
-  <a href="https://github.com/HigorNunesM/cross-selling"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=higornunesm&repo=cross-selling&theme=dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Cross-Selling"></a>
+  <a href="https://github.com/HigorNunesM/cross-selling"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=higornunesm&repo=cross-selling&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Cross-Selling"></a>
 </p>
 
 
