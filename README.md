@@ -29,7 +29,7 @@ My goal is to help companies create value and bring results through data science
 	<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"style="width: 20; height: 25px">
 </div>
 
-<!-- IDEs -->
+<!-- IDEs --> 
 #### • IDEs:
 <div>
 	 <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'style="width: 20; height: 25px">
