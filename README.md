@@ -18,7 +18,10 @@ My goal is to help companies create value and bring results through data science
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=higornunesm&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higornunesm&layout=compact&langs_count=7&theme=highcontrast"/>
 <Br>
+<Br>
 <hr>
+<Br>
+<Br>
     
 <!-- Contact -->
 
