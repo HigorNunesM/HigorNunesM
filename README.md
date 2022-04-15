@@ -14,8 +14,14 @@ My goal is to help companies create value and bring results through data science
 <!-- Skills -->
 
 <h1>Main Skills</h1>
-<!-- Programing languages -->
 
+ </div>
+ <div style="display: inline_block"><br>
+ <img align="right" alt="Lucas-pic" height="250" style="border-radius:1000px; src="<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> style="width: 500px; height: 500px; left: 0px; top: 0px;">
+ </div>
+
+ 
+<!-- Programing languages -->
 #### • Programming languages:
 <div>
 	<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'style="width: 20; height: 25px">
@@ -35,10 +41,10 @@ My goal is to help companies create value and bring results through data science
 <!-- Libraries -->
 #### • Libraries:
 <div>
-	 <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'style="width: 20; height: 25px">&nbsp;
-	 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"style="width: 20; height: 25px">&nbsp;
-	 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"style="width: 20; height: 25px">&nbsp;
-	 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"style="width: 20; height: 25px">&nbsp;
+	 <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'style="width: 20; height: 25px">
+	 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"style="width: 20; height: 25px">
+	 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"style="width: 20; height: 25px">
+	 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"style="width: 20; height: 25px">
 	 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"style="width: 20; height: 25px">
 </div>
 
@@ -63,7 +69,8 @@ My goal is to help companies create value and bring results through data science
 <div>
     <a href="https://www.linkedin.com/in/higornunes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp;&nbsp;
     <a href = "mailto:higornm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> &nbsp;&nbsp;&nbsp;
-    <a href = "https://wa.me/5521994208379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href = "https://wa.me/5521994208379" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://higornunesm.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
     
