@@ -15,6 +15,7 @@ My goal is to help companies create value and bring results through data science
 
 <h1>Main Skills</h1>
 <!-- Programing languages -->
+#### • Programming languages:
  </div>
  	 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'style="width: 20; height: 25px"> 
  	 &nbsp;&nbsp;&nbsp;
@@ -24,6 +25,7 @@ My goal is to help companies create value and bring results through data science
 </div>
 
 <!-- IDEs -->
+#### • IDEs:
  </div>
 	 <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'style="width: 20; height: 25px"> 
 	 &nbsp;&nbsp;&nbsp;
@@ -35,6 +37,7 @@ My goal is to help companies create value and bring results through data science
 </div>
 
 <!-- Libraries -->
+#### • Libraries:
  </div>
 	 <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'style="width: 20; height: 25px">
 	 &nbsp;&nbsp;&nbsp;
@@ -43,8 +46,6 @@ My goal is to help companies create value and bring results through data science
 	 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"style="width: 20; height: 25px">
 	 &nbsp;&nbsp;&nbsp;
 	 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"style="width: 20; height: 25px">
-	 &nbsp;&nbsp;&nbsp;
-	 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"style="width: 20; height: 25px">
 	 &nbsp;&nbsp;&nbsp;
 	 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"style="width: 20; height: 25px">
 </div>
