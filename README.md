@@ -80,9 +80,21 @@ My goal is to help companies create value and bring results through data science
 
 <h1>Projects</h1>
 
+
+#### • Description:
+The idea of this project is to create suggestions of products for costumers to purchase based on past purchases. We use the same methodology as Apriori but doing the math without the library.
+
+We analyze the purchases history to generate metrics such as Support and Confidence, creating association rules between the products.
+
+Then we analyze the purchase history of each client separately to create a recommendation list for the client. Giving them personalized suggestion that they are likely to adhere.
+
+As a bonus we also analyze the most selling items, to suggest those for clients that are not currently buying the company’s best products.
 <p align="center">
   <a href="https://github.com/HigorNunesM/cross-selling"><img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=higornunesm&repo=cross-selling&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Cross-Selling"></a>
 </p>
+
+<hr>
+
 #### • Description:
 The idea of this project is to create suggestions of products for costumers to purchase based on past purchases. We use the same methodology as Apriori but doing the math without the library.
 
@@ -91,19 +103,10 @@ We analyze the purchases history to generate metrics such as Support and Confide
 Then we analyze the purchase history of each client separately to create a recommendation list for the client. Giving them personalized suggestion that they are likely to adhere.
 
 As a bonus we also analyze the most selling items, to suggest those for clients that are not currently buying the company’s best products.
-<hr>
-
 <p align="center">
   <a href="https://github.com/HigorNunesM/costumer-segmentation"><img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=higornunesm&repo=costumer-segmentation&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Cross-Selling"></a>
 </p>
-#### • Description:
-The idea of this project is to create suggestions of products for costumers to purchase based on past purchases. We use the same methodology as Apriori but doing the math without the library.
 
-We analyze the purchases history to generate metrics such as Support and Confidence, creating association rules between the products.
-
-Then we analyze the purchase history of each client separately to create a recommendation list for the client. Giving them personalized suggestion that they are likely to adhere.
-
-As a bonus we also analyze the most selling items, to suggest those for clients that are not currently buying the company’s best products.
 <hr>
 
 
