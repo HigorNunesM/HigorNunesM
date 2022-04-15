@@ -96,19 +96,32 @@ As a bonus we also analyze the most selling items, to suggest those for clients 
 <hr>
 
 #### • Description:
-The idea of this project is to create suggestions of products for costumers to purchase based on past purchases. We use the same methodology as Apriori but doing the math without the library.
+In this project we implemented a costumer segmentation with a RFM analysis.
 
-We analyze the purchases history to generate metrics such as Support and Confidence, creating association rules between the products.
+Using the client’s purchase history, we were able to generate the metrics for a RFM analysis (Recency, Frequency and Monetary).
 
-Then we analyze the purchase history of each client separately to create a recommendation list for the client. Giving them personalized suggestion that they are likely to adhere.
+With the metrics in hand we segmented the clients accordingly with their scores. This classification method is used to better understand the costumer habits and how to improve the company relationship with them. Having better ad campaigns towards them.
 
-As a bonus we also analyze the most selling items, to suggest those for clients that are not currently buying the company’s best products.
+At the end I show 3 examples of clients that could have been better treated if we had their class beforehand.
 <p align="center">
   <a href="https://github.com/HigorNunesM/costumer-segmentation"><img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=higornunesm&repo=costumer-segmentation&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Cross-Selling"></a>
 </p>
 
 <hr>
 
+#### • Description:
+In this project we used Streamlit as a local application to run an automation service using Python.
+
+Problem: “Every month I have to take the commissions excel sheet, filter it for each seller, create a new file and then email this file to the seller. Since we have dozens of sellers this task takes a lot of time and it basically lost time.”
+
+So, using Python and its libraries we were able to build this application.
+
+Solution: He is going to upload the commissions excel sheet, select all the variables of the process as inputs. Like the columns with the information, the dates in the email and the email itself. We pre-loaded all the default inputs, so he wouldn’t have to pick this information every time. So essentially all he has to do is to upload the commissions excel and click a button.
+<p align="center">
+  <a href="https://github.com/HigorNunesM/RPA-comission-report"><img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=higornunesm&repo=RPA-comission-report&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Cross-Selling"></a>
+</p>
+
+<hr>
 
 
 
