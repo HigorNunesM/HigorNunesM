@@ -26,19 +26,19 @@ My goal is to help companies create value and bring results through data science
 <!-- IDEs -->
 #### • IDEs:
 <div>
-	 <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'style="width: 20; height: 25px"> &nbsp;&nbsp;&nbsp;
-	 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"style="width: 20;height: 25px"> &nbsp;&nbsp;&nbsp;
-	 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"style="width: 20; height: 25px"> &nbsp;&nbsp;&nbsp;
+	 <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'style="width: 20; height: 25px">
+	 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"style="width: 20;height: 25px">
+	 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"style="width: 20; height: 25px">
 	 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"style="width: 20; height: 25px">
 </div>
 
 <!-- Libraries -->
 #### • Libraries:
 <div>
-	 <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'style="width: 20; height: 25px">&nbsp;&nbsp;&nbsp;
-	 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"style="width: 20; height: 25px">&nbsp;&nbsp;&nbsp;
-	 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"style="width: 20; height: 25px">&nbsp;&nbsp;&nbsp;
-	 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"style="width: 20; height: 25px">&nbsp;&nbsp;&nbsp;
+	 <img src='https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white'style="width: 20; height: 25px">&nbsp;
+	 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"style="width: 20; height: 25px">&nbsp;
+	 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"style="width: 20; height: 25px">&nbsp;
+	 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"style="width: 20; height: 25px">&nbsp;
 	 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"style="width: 20; height: 25px">
 </div>
 
