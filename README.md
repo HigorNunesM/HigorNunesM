@@ -56,7 +56,7 @@ My goal is to help companies create value and bring results through data science
 <Br>
 <div align="center">
   <a href="https://github.com/higornunesm">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=higornunesm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=higornunesm&show_icons=true&icon_color=f9f9f9&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higornunesm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <Br>
