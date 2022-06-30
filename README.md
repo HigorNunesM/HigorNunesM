@@ -136,7 +136,3 @@ Next purchase period;
 Sales Forecast;
 Quality improvement - Process parameters optimization;
 Fault prediction of an electric motor;
-
-
-<img href="https://raw.githubusercontent.com/hig/hig/blob/output/snake.svg" alt="Snake animation" />
-
