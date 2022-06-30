@@ -1,6 +1,6 @@
 <!-- Greetings -->
 
-<h1 align="center">Welcome, I am Higor<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Welcome, I am Higor<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="10px"/></h1>
 <Br>
 
 <!-- About -->
