@@ -1,6 +1,6 @@
 <!-- Greetings -->
 
-<h1 align="center">Welcome, I am Higor<a><!--<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="1px"/></h1>
+<h1 align="center">Welcome, I am Higor<a>👋</h1><!--<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="1px"/></h1>
 <Br>-->
 
 <!-- About -->
@@ -32,6 +32,10 @@ My goal is to help companies create value and bring results through data science
 <!-- IDEs --> 
 #### • IDEs:
 <div>
+	
+<img href="https://raw.githubusercontent.com/hig/hig/blob/output/snake.svg" alt="Snake animation" />
+
+###
 	 <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'style="width: 20; height: 25px">
 	 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"style="width: 20;height: 25px">
 	 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"style="width: 20; height: 25px">
